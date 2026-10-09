@@ -1,0 +1,3 @@
+Name: Mykola
+
+My conclusion about Git: Git helps track changes, manage branches, and combine contributions from different people.
